@@ -40,7 +40,7 @@ def main():
     # create_one(client, "Pan Tadeusz", "Adam Mickiewicz", 1990, "")
     # create_one(client, "Ludzie Bezdomni", "Stefan Żeromski", 1991, "")
     # create_one(client, "Wesele", "Stanisław Wyspiański", 1992, "")
-    # create_one(client, "Chłopi", "Władysław Reymot", 1993, "")
+    # create_one(client, "Chłopi", "Władysław Reymont", 1993, "")
     # await list_all(client)
     # list_indexes(client)
     # create_index(client)
